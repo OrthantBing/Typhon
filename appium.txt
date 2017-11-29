@@ -1,0 +1,7 @@
+[caps]
+deviceName = "training"
+platformName = "android"
+app = "./apkfiles/PatientIO-PatientIO-distribution.apk"
+name = "Patient IO"
+appActivity = "co.filamentlabs.patientio.activity.LauncherActivity"
+appWaitActivity = "co.filamentlabs.patientio.activity.WelcomeActivity"
